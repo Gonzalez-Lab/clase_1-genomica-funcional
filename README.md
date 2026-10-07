@@ -162,8 +162,7 @@ Archivo simple para practicar importación y manipulación de datos en R.
 
 ### `PD transcriptomics.pdf`
 
-Material relacionado con el caso biológico que utilizaremos durante la clase: análisis transcriptómico en enfermedad de Parkinson.
-
+paper de los datos transcriptomicos Tranchevent LC, Halder R, Glaab E. Systems level analysis of sex-dependent gene expression changes in Parkinson's disease. NPJ Parkinsons Dis. 2023 Jan 21;9(1):8. doi: 10.1038/s41531-023-00446-8.
 ---
 
 # Caso de estudio
